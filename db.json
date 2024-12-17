@@ -1,14 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "sav": [
+    { "id": 1, "code": "code 1" , "description": "desc 1" , "photo_path": ""},
+    { "id": 2, "code": "code 2", "description": "desc 3","photo_path": "" },
+    { "id": 3, "code": "code 3" , "description": "desc 3","photo_path": ""}
+  ]
 }
