@@ -2,6 +2,5 @@
   "SAVBon": [
     { "id": 1, "client": "Dupont" , "typeMenuiserie": "PVC","agence": "ALE","dossier": "D01021218","devis": "12345","reference": "reference1","statut": "C","commentaire": "Remplacement vitrage","facturable": "Vrai","commentaireTechnicien": ""},
     { "id": 2, "client": "Durand" , "typeMenuiserie": "PVC","agence": "ALE","dossier": "D01021218","devis": "12345","reference": "reference1","statut": "C","commentaire": "Remplacement vitrage","facturable": "Vrai","commentaireTechnicien": ""},
-    { "id": 3, "client": "Dujardin" , "typeMenuiserie": "PVC","agence": "ALE","dossier": "D01021218","devis": "12345","reference": "reference1","statut": "C","commentaire": "Remplacement vitrage","facturable": "Vrai","commentaireTechnicien": ""},
-  ]
+    { "id": 3, "client": "Dujardin" , "typeMenuiserie": "PVC","agence": "ALE","dossier": "D01021218","devis": "12345","reference": "reference1","statut": "C","commentaire": "Remplacement vitrage","facturable": "Vrai","commentaireTechnicien": ""}  ]
 }
