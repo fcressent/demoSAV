@@ -1,7 +1,7 @@
 {
   "sAVBons": [
-    { "id": 1, "numBon": "1234" , "dateRDV": "2025-01-10T08:14:00" ,"adresseIntervention" : "15 rue de la république 76000 Rouen " , "client": "Dupont" , "typeMenuiserie": "PVC","agence": "ALE","dossier": "D01021218","devis": "12345","statut": "C","commentaire": "Remplacement vitrage","facturable": true,"commentaireTechnicien": ""},
-    { "id": 2, "numBon": "45698" , "dateRDV": "2025-01-10T08:14:00" ,"adresseIntervention" : "15 rue de la république 76000 Rouen "  "client": "Durand" , "typeMenuiserie": "ALU","agence": "ALE","dossier": "D01021218","devis": "12345","statut": "C","commentaire": "Remplacement vitrage","facturable": true,"commentaireTechnicien": ""},
-    { "id": 3, "numBon": "10213" , "dateRDV": "2025-01-10T08:14:00"  ,"adresseIntervention" : "15 rue de la république 76000 Rouen "  "client": "Dujardin" , "typeMenuiserie": "PVC","agence": "ALE","dossier": "D01021218","devis": "12345","statut": "C","commentaire": "Remplacement vitrage","facturable": false,"commentaireTechnicien": ""} 
+    { "id": 1, "numBon": "1234" , "dateRDV": "2025-01-10T08:14:00" ,"adresseIntervention" : "15 rue de la republique 76000 Rouen " , "client": "Dupont" , "typeMenuiserie": "PVC","agence": "ALE","dossier": "D01021218","devis": "12345","statut": "C","commentaire": "Remplacement vitrage","facturable": true,"commentaireTechnicien": ""},
+    { "id": 2, "numBon": "45698" , "dateRDV": "2025-01-10T08:14:00" ,"adresseIntervention" : "15 rue de la republique 76000 Rouen "  "client": "Durand" , "typeMenuiserie": "ALU","agence": "ALE","dossier": "D01021218","devis": "12345","statut": "C","commentaire": "Remplacement vitrage","facturable": true,"commentaireTechnicien": ""},
+    { "id": 3, "numBon": "10213" , "dateRDV": "2025-01-10T08:14:00"  ,"adresseIntervention" : "15 rue de la republique 76000 Rouen "  "client": "Dujardin" , "typeMenuiserie": "PVC","agence": "ALE","dossier": "D01021218","devis": "12345","statut": "C","commentaire": "Remplacement vitrage","facturable": false,"commentaireTechnicien": ""} 
   ]
 }
