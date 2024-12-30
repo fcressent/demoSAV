@@ -1,7 +1,7 @@
 {
   "sAVBons": [
-    { "id": 1, "client": "Dupont" , "typeMenuiserie": "PVC","agence": "ALE","dossier": "D01021218","devis": "12345","reference": "reference1","statut": "C","commentaire": "Remplacement vitrage","facturable": true,"commentaireTechnicien": ""},
-    { "id": 2, "client": "Durand" , "typeMenuiserie": "PVC","agence": "ALE","dossier": "D01021218","devis": "12345","reference": "reference1","statut": "C","commentaire": "Remplacement vitrage","facturable": true,"commentaireTechnicien": ""},
-    { "id": 3, "client": "Dujardin" , "typeMenuiserie": "PVC","agence": "ALE","dossier": "D01021218","devis": "12345","reference": "reference1","statut": "C","commentaire": "Remplacement vitrage","facturable": false,"commentaireTechnicien": ""} 
+    { "id": 1, "numBon": "1234" , "dateRDV": "20250101" , "client": "Dupont" , "typeMenuiserie": "PVC","agence": "ALE","dossier": "D01021218","devis": "12345","statut": "C","commentaire": "Remplacement vitrage","facturable": true,"commentaireTechnicien": ""},
+    { "id": 2, "numBon": "45698" , "dateRDV": "20250102" , "client": "Durand" , "typeMenuiserie": "ALU","agence": "ALE","dossier": "D01021218","devis": "12345","statut": "C","commentaire": "Remplacement vitrage","facturable": true,"commentaireTechnicien": ""},
+    { "id": 3, "numBon": "10213" , "dateRDV": "20250103"  , "client": "Dujardin" , "typeMenuiserie": "PVC","agence": "ALE","dossier": "D01021218","devis": "12345","statut": "C","commentaire": "Remplacement vitrage","facturable": false,"commentaireTechnicien": ""} 
   ]
 }
